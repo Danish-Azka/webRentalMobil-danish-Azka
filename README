@@ -1,0 +1,10 @@
+1.diawal ada sebuah form untuk pengisian login, jika belum memiliki akun yang terdaftar klik tulisan "no have account? sign up"
+2.isi semua form yg ada dan isi bagian form photo dengan link dari sebuah gambar
+3.jika sudah memiliki akun maka isi form login 
+4.untuk alur pengisian data harap dilakukan secara berurutan sebagai berikut
+        - karyawan
+        - client
+        - mobil
+        - transaksi
+        - pengembalian
+5.terdapat tombol settings di pojok kanan atas sidebar, yg berfungsi untuk menampilkan tombol logOut dan profile dari admin
