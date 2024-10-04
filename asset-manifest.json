@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Danish-Azka/webRentalMobil-danish-Azka/static/css/main.7bbc810e.css",
+    "main.js": "/Danish-Azka/webRentalMobil-danish-Azka/static/js/main.2384cb6f.js",
+    "static/js/453.1071a3bf.chunk.js": "/Danish-Azka/webRentalMobil-danish-Azka/static/js/453.1071a3bf.chunk.js",
+    "static/media/aa.png": "/Danish-Azka/webRentalMobil-danish-Azka/static/media/aa.e2b69c201fc352536866.png",
+    "index.html": "/Danish-Azka/webRentalMobil-danish-Azka/index.html",
+    "main.7bbc810e.css.map": "/Danish-Azka/webRentalMobil-danish-Azka/static/css/main.7bbc810e.css.map",
+    "main.2384cb6f.js.map": "/Danish-Azka/webRentalMobil-danish-Azka/static/js/main.2384cb6f.js.map",
+    "453.1071a3bf.chunk.js.map": "/Danish-Azka/webRentalMobil-danish-Azka/static/js/453.1071a3bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bbc810e.css",
+    "static/js/main.2384cb6f.js"
+  ]
+}
